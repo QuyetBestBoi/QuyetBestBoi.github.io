@@ -7,6 +7,7 @@ cover-img: assets/img/quiz_time2.jpg
 after-content: index.html
 js: assets/js/quiz/script.js
 css: assets/css/quiz/style.css
+social-share: false
 ---
 
 A quiz about Quyet is the easiest quiz in the world.  
