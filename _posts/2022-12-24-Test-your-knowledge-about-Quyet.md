@@ -4,7 +4,7 @@ title: Test your knowledge about Quyet
 subtitle: How well do you understand Quyet?  
 thumbnail-img: assets/img/quiz_time.jpg
 cover-img: assets/img/quiz_time2.jpg
-after_content: index.html
+after-content: index.html
 js: assets/js/quiz/script.js
 css: assets/css/quiz/style.css
 ---
