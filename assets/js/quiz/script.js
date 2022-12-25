@@ -78,28 +78,29 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is 2 + 2?',
+    question: 'When was Quyet born?',
     answers: [
-      { text: '4', correct: true },
-      { text: '22', correct: false }
+      { text: '12-11-2007', correct: true },
+      { text: '31-2-2007', correct: false },
+      { text: '5-11-2007', correct: false }
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'Which subject is Quyet good at?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Math', correct: false },
+      { text: 'English', correct: false },
+      { text: 'Literature', correct: false },
+      { text: 'EVERYTHINGG', correct: true }
     ]
   },
   {
-    question: 'Is web development fun?',
+    question: 'Is Quyet awesome?',
     answers: [
-      { text: 'Kinda', correct: false },
+      { text: 'Probalby', correct: false },
       { text: 'YES!!!', correct: true },
       { text: 'Um no', correct: false },
-      { text: 'IDK', correct: false }
+      { text: 'I dont know', correct: false }
     ]
   },
   {
